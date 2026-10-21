@@ -10,8 +10,8 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 * 🌱 Improving my Python programming and problem-solving skills
 * 💻 Building REST APIs with CRUD operations, authentication, filtering, and data aggregation
 * 🤝 Interested in collaborating on meaningful software projects
-* 📫 Email: [ayushnandakumar04@gmail.com](https://www.google.com/search?q=mailto%3Aayushnandakumar04%40gmail.com)
-* 💼 LinkedIn: [Connect with me](https://www.google.com/search?q=https://www.linkedin.com/in/ayush-nandakumar-03bb84373/)
+* 📫 Email: [ayushnandakumar04@gmail.com](ayushnandakumar04@gmail.com)
+* 💼 LinkedIn: [Connect with me](www.linkedin.com/in/ayush-nandakumar-03bb84373)
 
 ---
 

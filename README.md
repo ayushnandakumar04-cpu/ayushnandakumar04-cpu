@@ -18,7 +18,7 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 ## 🌐 Socials:
 
 * **GitHub:** [ayushnandakumar04-cpu](https://github.com/ayushnandakumar04-cpu)
-* **LinkedIn:** [Ayush Nandakumar](https://www.google.com/search?q=https://www.linkedin.com/in/ayush-nandakumar-03bb84373/)
+* **LinkedIn:** [Ayush Nandakumar](https://www.google.com/search?q=https://www.linkedin.com/in/ayush-nandakumar-03bb84373)
 * **Email:** [ayushnandakumar04@gmail.com](https://www.google.com/search?q=mailto%3Aayushnandakumar04%40gmail.com)
 
 ---
@@ -38,7 +38,7 @@ A personal expense management application for tracking expenses, analyzing spend
 * Category-wise expense analysis
 * AI-assisted monthly budget planning
 
-**Tech Stack:** Python · Django REST Framework · MySQL · Gemini API
+**Tech Stack:** Python · Django . Django REST Framework · MySQL · Gemini API
 
 🔗 [View Repository](https://github.com/ayushnandakumar04-cpu/spendwise.git)
 

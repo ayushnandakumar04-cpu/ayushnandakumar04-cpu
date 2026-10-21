@@ -40,7 +40,7 @@ A personal expense management application for tracking expenses, analyzing spend
 
 **Tech Stack:** Python · Django REST Framework · MySQL · Gemini API
 
-🔗 [View Repository](https://www.google.com/search?q=https://github.com/ayushnandakumar04-cpu/spendwise)
+🔗 [View Repository](https://github.com/ayushnandakumar04-cpu/spendwise.git)
 
 ### Fit Wise — Calorie Tracker
 
@@ -53,7 +53,7 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 
 **Tech Stack:** Python · Django REST Framework · MySQL · Gemini API
 
-🔗 [View Repository](https://www.google.com/search?q=https://github.com/ayushnandakumar04-cpu/fitwise)
+🔗 [View Repository](https://github.com/ayushnandakumar04-cpu/fitwise.git)
 
 ---
 

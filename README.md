@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Ayush Nandakumar Banner" width="100%">
+</p>
 
 # Hi, I'm Ayush Nadhakumar 👋
 
@@ -71,3 +73,4 @@ A calorie tracking application for managing meals, monitoring calorie intake, an
 ---
 
 *Build consistently. Improve continuously.*
+

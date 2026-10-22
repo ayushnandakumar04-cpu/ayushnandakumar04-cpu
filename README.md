@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Ayush Nandakumar Banner" width="100%">
+  <img src="banner.jpg" alt="Ayush Nandakumar Banner" width="100%">
 </p>
 
 # Hi, I'm Ayush Nadhakumar 👋

@@ -20,8 +20,8 @@ I'm a developer focused on building practical web applications and REST APIs. I'
 ## 🌐 Socials:
 
 * **GitHub:** [ayushnandakumar04-cpu](https://github.com/ayushnandakumar04-cpu)
-* **LinkedIn:** [Ayush Nandakumar](https://www.google.com/search?q=https://www.linkedin.com/in/ayush-nandakumar-03bb84373)
-* **Email:** [ayushnandakumar04@gmail.com](https://www.google.com/search?q=mailto%3Aayushnandakumar04%40gmail.com)
+* **LinkedIn:** [Ayush Nandakumar](www.linkedin.com/in/ayush-nandakumar-03bb84373)
+* **Email:** [ayushnandakumar04@gmail.com](ayushnandakumar04@gmail.com)
 
 ---
 

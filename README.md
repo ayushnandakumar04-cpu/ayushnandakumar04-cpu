@@ -63,9 +63,9 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 ---
 ### 🛠️Tech Stack
 
-<p align="center">
-  <img src="tech-stack.png" width="100%" alt="Tech Stack"/>
-</p>
+<div align="center">
+  <img src="./tech-stack.png" alt="My Tech Stack" width="90%">
+</div>
 
 ### Backend Development
 

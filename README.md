@@ -70,14 +70,10 @@ I'm a developer focused on building practical web applications, REST APIs, and A
   <br>
   <b>Python Programming</b>
 </p>
+<h3>⚙️ Backend Development</h3>
 
-  </a>
-</div>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django" width="60" alt="Django"/>
-</p>
-<h3>💻Django Rest Framework</h3>
-<p align="left">
   <img src="https://img.shields.io/badge/Django_REST_Framework-API-red?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
 </p>
 

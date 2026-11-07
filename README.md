@@ -76,7 +76,7 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 
 ### Backend Development
 
-<p align="right">
+<p align="left">
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55" height="55">
   </a>
@@ -88,7 +88,7 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 
 ### Database
 
-<p align="right">
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55">
   </a>

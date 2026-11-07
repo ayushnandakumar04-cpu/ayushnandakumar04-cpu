@@ -61,15 +61,11 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 - **Email:** [ayushnandakumar04@gmail.com](mailto:ayushnandakumar04@gmail.com)
 
 ---
+### Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-## 🛠️ Tech Stack
-
-### Programming Language
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55">
-  </a>
+<p align="center">
+  <img src="tech-stack.png" width="100%" alt="Tech Stack"/>
 </p>
 
 ### Backend Development

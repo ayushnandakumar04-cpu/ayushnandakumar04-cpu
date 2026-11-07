@@ -73,17 +73,12 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 
   </a>
 </div>
-
-### Backend Development
-
 <p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="55" height="55">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/djangorestframework/7C3AED" alt="Django REST Framework" width="55" height="55">
-  </a>
+  <img src="https://skillicons.dev/icons?i=django" width="60" alt="Django"/>
+</p>
+<h3>💻Django Rest Framework</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Django_REST_Framework-API-red?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
 </p>
 
 ### Database
@@ -96,7 +91,7 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 
 ### Frontend Development
 
-<p align="right">
+<p align="left">
   <a href="https://react.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="55" height="55">
   </a>

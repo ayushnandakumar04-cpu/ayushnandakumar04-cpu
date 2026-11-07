@@ -63,14 +63,14 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 ---
 ### 🛠️Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<h3>💻 Programming Language</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/>
+  <br>
+  <b>Python Programming</b>
 </p>
-<div align="center">
-  <a href="https://github.com/ayushnandakumar04-cpu">
-    <img src="https://raw.githubusercontent.com/ayushnandakumar04-cpu/ayushnandakumar04-cpu/main/tech-stack.png"
-         alt="Tech Stack"
-         width="100%">
+
   </a>
 </div>
 

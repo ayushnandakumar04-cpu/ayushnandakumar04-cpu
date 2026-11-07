@@ -64,7 +64,11 @@ I'm a developer focused on building practical web applications, REST APIs, and A
 ### 🛠️Tech Stack
 
 <div align="center">
-  <img src="./tech-stack.png"  width="90%">
+  <a href="https://github.com/ayushnandakumar04-cpu">
+    <img src="https://raw.githubusercontent.com/ayushnandakumar04-cpu/ayushnandakumar04-cpu/main/tech-stack.png"
+         alt="Tech Stack"
+         width="100%">
+  </a>
 </div>
 
 ### Backend Development
